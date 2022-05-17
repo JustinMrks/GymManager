@@ -16,4 +16,4 @@ Automatically shows all members, including deactivated members when looking some
 
 Clean User Interface, minimizing complexity
 
-####Minimum Clicks, Maximum Output
+#### Minimum Clicks, Maximum Output
