@@ -2,6 +2,10 @@
 
 Application to create users, add them to families and change their membership status
 
+## Link to database plan
+
+https://app.dbdesigner.net/designer/schema/527039
+
 ## Problems
 
 Ability to transfer ownership of an account to another family member
