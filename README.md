@@ -24,4 +24,4 @@ Clean User Interface, minimizing complexity
 
 ## To-Do
 
-Break out backend into its own file for future use
+Break out backend into its own repo for future use
