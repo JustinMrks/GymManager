@@ -26,6 +26,6 @@ Clean User Interface, minimizing complexity
 
 #### Minimum Clicks, Maximum Output
 
-## To-Do
+## Things To-Do
 
 Break out backend into its own repo for future use
