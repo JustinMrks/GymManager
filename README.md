@@ -6,6 +6,10 @@ Application to create users, add them to families and change their membership st
 
 https://app.dbdesigner.net/designer/schema/527039
 
+## Link to design plan
+
+https://www.figma.com/file/2q3MWrHDux1bKwsGXlbbjq/Gym-Manager?node-id=0%3A1
+
 ## Problems
 
 Ability to transfer ownership of an account to another family member
@@ -21,3 +25,7 @@ Automatically shows all members, including deactivated members when looking some
 Clean User Interface, minimizing complexity
 
 #### Minimum Clicks, Maximum Output
+
+## Things To-Do
+
+Break out backend into its own repo for future use
