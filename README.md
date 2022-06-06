@@ -2,10 +2,6 @@
 
 Application to create users, add them to families and change their membership status
 
-## Link to database plan
-
-https://app.dbdesigner.net/designer/schema/527039
-
 ## Link to design plan
 
 https://www.figma.com/file/2q3MWrHDux1bKwsGXlbbjq/Gym-Manager?node-id=0%3A1
