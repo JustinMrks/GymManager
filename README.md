@@ -2,6 +2,9 @@
 
 Application to create users, add them to families and change their membership status
 
+## Backend Link
+https://github.com/JustinMrks/GymManagerBackEnd
+
 ## Trello Link
 
 https://trello.com/b/H3SuBnIq/gym-manager
