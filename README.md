@@ -2,6 +2,10 @@
 
 Application to create users, add them to families and change their membership status
 
+## Trello Link
+
+https://trello.com/b/H3SuBnIq/gym-manager
+
 ## Link to design plan
 
 https://www.figma.com/file/2q3MWrHDux1bKwsGXlbbjq/Gym-Manager?node-id=0%3A1
